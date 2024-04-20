@@ -7,8 +7,11 @@ This repository contains a comprehensive music store database designed to manage
 
 Features
 Inventory Management: Easily track and manage the store's inventory, including details such as album titles, artists, genres, and stock quantities.
+
 Customer Management: Maintain a database of customers, storing information like names, contact details, and purchase history.
+
 Sales Transactions: Record and track sales transactions, including purchase dates, items sold, and transaction amounts.
+
 Reports and Analytics: Generate reports and perform analytics to gain insights into sales trends, popular items, and customer preferences.
 
 
